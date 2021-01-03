@@ -1,2 +1,8 @@
 # add_cuda_path
-Add CUDA PATH
+
+Script to add CUDA PATH directories
+
+Tested on Ubuntu 18.04
+
+#Usage
+Add shell script to /etc/profile.d/ as root
